@@ -1,0 +1,11 @@
+brad     pts/1        192.168.1.108    Wed Apr 26 01:28   still logged in
+brad     pts/0        192.168.1.108    Wed Apr 26 01:15   still logged in
+brad     tty1                          Wed Apr 26 01:15   still logged in
+reboot   system boot  5.15.0-71-generi Wed Apr 26 01:14   still running
+brad     pts/0        192.168.1.108    Wed Apr 26 00:41 - 00:51  (00:10)
+brad     tty1                          Wed Apr 26 00:38 - crash  (00:36)
+reboot   system boot  5.15.0-71-generi Wed Apr 26 00:38   still running
+brad     tty1                          Wed Apr 26 00:18 - crash  (00:20)
+reboot   system boot  5.15.0-71-generi Wed Apr 26 00:17   still running
+
+wtmp begins Wed Apr 26 00:17:19 2023
