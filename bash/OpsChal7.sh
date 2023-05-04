@@ -3,7 +3,7 @@
 echo "=====SYSTEM INFORMATION====="
 
 echo "-CPU-"
-sudo lshw -c cpu| grep -i "Product"
+sudo lshw -c cpu | grep -i "Product"
 sudo lshw -c cpu | grep -i "Vendor"
 sudo lshw -c cpu | grep -i "Physical ID"
 sudo lshw -c cpu | grep -i "Bus info"
