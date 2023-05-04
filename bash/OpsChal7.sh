@@ -15,31 +15,9 @@ sudo lshw -c memory | grep -i "Physical ID"
 sudo lshw -c memory | grep -i "Size"
 
 echo "-Display Adapter"
-sudo lshw -c display | grep -i "Description"
-sudo lshw -c display | grep -i "Product"
-sudo lshw -c display | grep -i "Vendor"
-sudo lshw -c display | grep -i "Physical ID"
-sudo lshw -c display | grep -i "Bus Info"
-sudo lshw -c display | grep -i "Width"
-sudo lshw -c display | grep -i "Clock"
-sudo lshw -c display | grep -i "Capabilities"
-sudo lshw -c display | grep -i "Configuration"
-sudo lshw -c display | grep -i "Resources"
+sudo lshw -c display
 
 echo "Network Adapter"
-sudo lshw -c network | grep -i "Description"
-sudo lshw -c network | grep -i "Product"
-sudo lshw -c network | grep -i "Vendor"
-sudo lshw -c network | grep -i "Physical ID"
-sudo lshw -c network | grep -i "Bus Info"
-sudo lshw -c network | grep -i "Logical name"
-sudo lshw -c network | grep -i "Version"
-sudo lshw -c network | grep -i "Serial"
-sudo lshw -c network | grep -i "Size"
-sudo lshw -c network | grep -i "Width"
-sudo lshw -c network | grep -i "Clock"
-sudo lshw -c network | grep -i "Capabilities"
-sudo lshw -c network | grep -i "Configuration"
-sudo lshw -c network | grep -i "Resources"
+sudo lshw -c network
 
 #end
