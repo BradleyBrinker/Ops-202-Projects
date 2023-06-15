@@ -36,7 +36,7 @@ print(2 ** 2.)
 # An * (asterisk) sign is a multiplication operator.
 
 # A / (slash) sign is a division operator.
-# A division sign always lead to a float if needed or not
+# A division sign always lead to a float if needed or not can also use /n
 print(6 / 3)
 
 # A double // removes float and always rounds
