@@ -1,7 +1,0 @@
-What is this repo all about? Bash and Powershell scripting
-Why are you learning these skills? They are important for system administration and IT work. 
-What fundamental concepts did you learn in Ops 201? Basics of Powershell and Bash. Tech desk troubleshooting and methodology. Investigative troubleshooting, research.
-What was your favorite Ops Challenge assignment and why? Mostly the bash scripting, it challenged my understanding and really made me feel like I was learning important skill sets. Lots of learning through failure which is not how I am accustomed to learning, it has challenged me in a positive way in that regard.
-How can these examples of shell scripting be applied to the workplace? They can help you write scripts that will automate work or tasks. This can help with efficiency and productivity in the workplace and make you a more attractive employee during interview processes.
-What scripts would you continue to improve if you had the time? Bash/Powershell/Python
-What aspect of your shell scripting skillset do you hope to improve next? Fundamental understanding so that I can quickly recall basic coding commands in order to diagnose or troubleshoot an issue. At current my understanding of the basics is decent but I wish to improve greatly at terminology and knowing how to write out what I want the script to accomplish.
